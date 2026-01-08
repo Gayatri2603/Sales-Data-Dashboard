@@ -58,4 +58,4 @@ The dataset is used strictly for educational purposes.
 
 ## 🖼 Dashboard Preview
 
-![Sales Data Overview Da]()
+![Sales Data Overview Da](https://github.com/Gayatri2603/Sales-Data-Dashboard/blob/main/Sales%20data%20Overview.png)
